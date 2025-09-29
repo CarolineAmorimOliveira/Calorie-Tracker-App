@@ -26,4 +26,5 @@ Calorie recommendation source:
 
 ## Author
 Caroline Amorim Oliveira
+
 Valencia College Dual Enrollment – Introduction to Programming Concepts
